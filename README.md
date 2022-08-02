@@ -1,4 +1,4 @@
-This repo is used for introducting regular expressions and the re library in python
+This repo is used for my Lightining Talk in introducting regular expressions and the re library in python
 
 useful resources:
 
